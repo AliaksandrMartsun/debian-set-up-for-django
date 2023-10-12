@@ -48,11 +48,11 @@ vim ~/.zshrc
     alias cls="clear"
 ```
 
-## Install python 3.7
+## Install python 3.12
 
 mkdir ~/code
 
-Build from source python 3.7, install with prefix to ~/.python folder:
+Build from source python 3.12, install with prefix to ~/.python folder:
 
 ```
 wget https://www.python.org/ftp/python/3.12.0/Python-3.12.0.tgz ; \
